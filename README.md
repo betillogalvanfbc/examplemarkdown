@@ -16,3 +16,16 @@ _Betillo_
 
 #Images
 ![image](images/a.jpg)
+
+# PlantUML markdown support seems not enabled on gitlab.com
+
+As per https://docs.gitlab.com/ce/administration/integration/plantuml.html, this [PlantUML sequence diagram](http://plantuml.com/sequence-diagram) should work:
+
+```plantuml
+Bob -> Alice : hello
+Alice -> Bob : Go Away
+```
+
+# PlantUML file rendering seems not enabled on gitlab.com
+
+It would be nice if this linked [plantuml-diagram.plantuml](plantuml-diagram.plantuml) file would render by itself.
