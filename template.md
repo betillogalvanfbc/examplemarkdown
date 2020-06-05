@@ -36,7 +36,7 @@ prompt(1);
 #Tables
 |Name|Lastname|Age|
 |---|---|---|
-|Alberto|Galvan|24|
+|Alberto|Galvan|999|
 
 >Este es un mensaje con markdown.
 
