@@ -5,7 +5,7 @@ Hola mi nombre es: Betillo
 ### Betillo
 #### Betillo
 
-_BetilloGalvanSoy_
+_BetilloSoy_
 _Mexico_
 
 **Betillo**
@@ -14,7 +14,7 @@ _Mexico_
 
 #Links
 Como usarlo:
-[Visit My Website](https://www.b2g.space "Soybetillo")
+[Visit My Website](https://www.google.com "Soybetillo")
 
 #Images
 ![image Info](images/O123.PNG "Image Description")
